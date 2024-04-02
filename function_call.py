@@ -4,8 +4,6 @@ import time
 from requests.auth import HTTPBasicAuth
 
 
-
-
 class Functions_call:
     @staticmethod
     def send_email(to_email, subject, content):
