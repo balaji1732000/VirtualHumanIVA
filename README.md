@@ -1,7 +1,7 @@
 # Intelligent Virtual Assistant  
   
 ## Description  
-Create sophisticated multimodal AI Virtual Agents, AI Avatars, and AI Voice Agents with MyLiva.  
+Multimodal AI Virtual Agents, AI Avatars, and AI Voice Agents with MyLiva.  
   
 ## Installation  
   
@@ -25,6 +25,8 @@ pip install -r requirements.txt
 # Run the FastAPI server  
 uvicorn generate_response_azure:app --reload  
 
+### Backend Server
+  
 # Navigate to the VirtualAssistant directory  
 cd VirtualAssitant  
   
