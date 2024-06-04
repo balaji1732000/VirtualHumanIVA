@@ -23,9 +23,9 @@ app.add_middleware(
 )
 
 client = AzureOpenAI(
-    api_key="bd38ee31e244408cacab3e1dd4c32221",
-    api_version="2023-07-01-preview",
-    azure_endpoint="https://dwspoc.openai.azure.com/",
+    api_key="*******",
+    api_version="*****",
+    azure_endpoint="*********",
 )
 
 # default_llm = AzureChatOpenAI(
